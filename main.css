@@ -148,7 +148,6 @@ button {
 	font-size: 15px;
 	}
 
-
 @media screen and (max-width: 767px) {
 	.conteudo {
 		display: block;
@@ -163,9 +162,8 @@ button {
 	}
 
 	.container {
-		display: block;
-		max-width: 95%;
-    	margin: 2.5%;
+		max-width: 767px;
+		width: 90%;
 	}
 
 	.container h1 {
@@ -304,7 +302,7 @@ button {
 
 		.sobre-loja h3 {
 			max-width: 30%;
-			font-size: 1.5em;
+			font-size: 2em;
 			margin-right: 20px;
 		}
 
